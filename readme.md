@@ -3,6 +3,10 @@
 ## Overview
 Career Vault is a full-featured job portal built using the MERN stack (MongoDB, Express, React, Node.js) that connects recruiters and job seekers. Recruiters can create accounts, register their companies, and post job openings, while candidates can browse listings, apply for jobs, and track their application statuses.
 
+
+## Deployed Link
+https://career-vault-job-portal.onrender.com/
+
 ## Features
 - **User Authentication:** Secure login and registration for both recruiters and candidates using JSON Web Tokens (JWT).
 - **Role-Based Access Control:** Distinct functionalities for recruiters and candidates to ensure tailored user experiences.
